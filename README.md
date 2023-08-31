@@ -6,7 +6,7 @@
   - [osTicket: Post-Installation Configuration](https://github.com/ricmarcano/osTicket-post-installation.git)
   - [osTicket: Ticket Lifecycle Examples](https://github.com/ricmarcano/osTicket-Ticket-Lifecycle.git)
 - <b>Microsoft Azure</b>
-  - [Azure Active Directory: Installation](https://github.com/joshmadakorcc/configure-ad)
+  - [Azure Active Directory: Installation](https://github.com/ricmarcano/Azure-Active-Directory-Installation.git)
   - [Network Security Groups (NSGs) and Inspecting Network Protocols](https://github.com/joshmadakorcc/azure-network-protocols)
 
 <h2>🤳Connect with me:</h2>
