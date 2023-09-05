@@ -8,9 +8,10 @@
 - <b>Microsoft Azure</b>
   - [Azure Active Directory: Installation](https://github.com/ricmarcano/Azure-Active-Directory-Installation.git)
   - [Azure Active Directory: Configuration](https://github.com/ricmarcano/Azure-Active-Directory-Configuration.git)
+  - [Understanding DNS](https://github.com/ricmarcano/Understanding-DNS.git)
   - [Network Security Groups (NSGs) and Inspecting Network Protocols](https://github.com/joshmadakorcc/azure-network-protocols)
 
 <h2>🤳Connect with me:</h2>
-https://linkedin.com/in/Josh
 
-(https://github.com/ricmarcano/osTicket-post-installation.git)https://github.com/ricmarcano/osTicket-post-installation.git
+
+
