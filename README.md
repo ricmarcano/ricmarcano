@@ -11,7 +11,7 @@
   - [Understanding DNS](https://github.com/ricmarcano/Understanding-DNS.git)
   - [Inspecting Network Traffic in Azure](https://github.com/ricmarcano/Network-Security-Groups.git)
  
-<h2>🤳Connect with me:</h2>
+
 
 
 
